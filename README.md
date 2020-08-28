@@ -1,2 +1,2 @@
 # Personal_Blog_API
-BACKEND for github personal blog
+Backend for github personal blog
